@@ -1,0 +1,7 @@
+#Este es un archivo de Markdown de prueba
+
+Este es un parrafo cualquiera
+
+++Nota:+´Esta es una nota"
+
+GUIA 9 DSE ALAN WILFREDO CAÑAS UMAÑA
